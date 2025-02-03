@@ -1,2 +1,6 @@
 # project_valida_cpf
-Projeto Validador de CPF Dio
+//Desafio de Projeto Validador de CPF Dio.me
+
+Bootcamp Azure Clouds AZ-204
+
+Projeto de implementação Azure Function
