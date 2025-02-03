@@ -3,4 +3,6 @@
 
 Bootcamp Azure Clouds AZ-204
 
+Desafio: Criando um Microsserviço Serverless para Validação de CPF
+
 Projeto de implementação Azure Function
